@@ -70,7 +70,6 @@ export default function NFTDetail({ params }: { params: { id: string } }) {
               </p>
               <div className="my-6">
                 <p className="text-2xl font-semibold text-black">Free mint</p>
-                <p className="text-lg font-medium text-black">By</p>
               </div>
             </div>
             <div className="flex-[0.5] rounded-md">
